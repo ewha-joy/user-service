@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      uri: http://27.96.131.221:30080
+      name: joytoon-user-service
